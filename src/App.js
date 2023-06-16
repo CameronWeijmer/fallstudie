@@ -7,9 +7,9 @@ function App() {
     <Container>
       <Row>
         <Col>
-            <h1>App Ref. Card 02</h1>
+            <h1>AWESOME CHANGE</h1>
             <div className="message">
-              react app ... up and running
+              React App has been changed by Cameron Weijmer
             </div>
         </Col>
         <Row>
